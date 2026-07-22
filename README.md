@@ -85,12 +85,6 @@ variable-star-classification/
 ├── notebooks/
 │   └── Variable_Star_Classification.ipynb
 │
-├── figures/
-│   ├── confusion_matrix.png
-│   ├── shap_summary.png
-│   ├── shap_bar.png
-│   └── feature_importance.png
-│
 ├── data/
 │   └── README.md
 │
