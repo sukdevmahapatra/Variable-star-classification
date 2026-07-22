@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
 ![Lightkurve](https://img.shields.io/badge/Lightkurve-TESS-green)
-![License](https://img.shields.io/badge/License-MIT-red)
 
 ## Project Overview
 
@@ -95,9 +94,7 @@ variable-star-classification/
 ├── data/
 │   └── README.md
 │
-├── requirements.txt
-├── README.md
-└── LICENSE
+└── README.md
 ```
 
 ---
@@ -155,10 +152,6 @@ Evaluation includes:
 
 Example confusion matrix:
 
-<p align="center">
-<img src="figures/confusion_matrix.png" width="500">
-</p>
-
 ---
 
 ## Explainable AI
@@ -198,7 +191,3 @@ M.Sc. Physics (Astroparticle Physics)
 GitHub: https://github.com/YOUR_GITHUB_USERNAME
 
 ---
-
-## License
-
-This project is licensed under the MIT License.
