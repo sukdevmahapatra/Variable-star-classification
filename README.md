@@ -188,6 +188,6 @@ If you use this repository in your research, please cite it appropriately.
 
 M.Sc. Physics (Astroparticle Physics)
 
-GitHub: https://github.com/YOUR_GITHUB_USERNAME
+GitHub: https://github.com/sukdevmahapatra/variable-star-classification.git
 
 ---
